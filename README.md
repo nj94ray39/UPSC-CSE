@@ -2,7 +2,7 @@
 Notes
 
 
-Daily nes repo : 
+Daily news repo : 
     Newspaper covered : The Hindu & IE etc.
 
     date format - ddmmyy
