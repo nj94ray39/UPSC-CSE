@@ -1,27 +1,28 @@
 Syntex = {"ddmmyy","subject","sub-section","news"}
 Static - s {not dependent on CA}
 Dynamic - d {dependent on CA}
+News componenets - 
 
          ################################################  
          #      Subjetcs      -       Subsections       #
          ################################################  
-         d  Economy
-         s  Ancient and Medieval History
-         d  Art and Culture
-            Technology
-            Bio-diversity 
-            Environment
-            Internal Security
-            Disaster Management
-            Governance
-            Constitution
-            Polity
-            Social Justice
-            International relations
-            History
-            Geography
-            Ethics
-            Integrity
-            Aptitude
+         d  Economy(ECO)
+         s  Ancient and Medieval History(AM)
+         d  Art and Culture(AC)
+            Technology(TECH)
+            Bio-diversity
+            Environment(ENV)
+            Internal Security(IS)
+            Disaster Management(DM)
+            Governance(GOV)
+            Constitution(CON)
+            Polity(POL)
+            Social Justice(SJ)
+            International relations(IR) - neighborhood relations;Bilateral, regional and global groupings and agreements involving India and/or affecting India’s interests.; Effect of policies and politics of developed and developing countries on India’s interests, Indian diaspora.; Important International institutions, agencies and fora- their structure, mandate.
+            Mordern History(MH)
+            Geography(GEO)
+            Ethics(ET)
+            Integrity(INT)
+            Aptitude(APT)
 
-{"270422","forigen","sub-section","news"}
+{"270422","IR","ukraine-russia-war","news"}
