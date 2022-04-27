@@ -1,1 +1,27 @@
-as
+Syntex = {"ddmmyy","subject","sub-section","news"}
+Static - s {not dependent on CA}
+Dynamic - d {dependent on CA}
+
+         ################################################  
+         #      Subjetcs      -       Subsections       #
+         ################################################  
+         d  Economy
+         s  Ancient and Medieval History
+         d  Art and Culture
+            Technology
+            Bio-diversity 
+            Environment
+            Internal Security
+            Disaster Management
+            Governance
+            Constitution
+            Polity
+            Social Justice
+            International relations
+            History
+            Geography
+            Ethics
+            Integrity
+            Aptitude
+
+{"270422","forigen","sub-section","news"}
