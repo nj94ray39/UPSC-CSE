@@ -1,4 +1,4 @@
-Syntex = {"ddmmyy","subject","sub-section","news"}
+Syntex = {"ddmmyy"|"subject"|"sub-section"|"news"}
 Static - s {not dependent on CA}
 Dynamic - d {dependent on CA}
 News componenets - 
@@ -6,7 +6,7 @@ News componenets -
          ################################################  
          #      Subjetcs      -       Subsections       #
          ################################################  
-         d  Economy(ECO)
+         d  Economy(ECO) - Inclusive growth
          s  Ancient and Medieval History(AM)
          d  Art and Culture(AC)
             Technology(TECH)
@@ -25,4 +25,8 @@ News componenets -
             Integrity(INT)
             Aptitude(APT)
 
-{"270422","IR","ukraine-russia-war","news"}
+{"270422"|"ECO"|"EV"|"an EV battery catching fire is the 'volatility of electrolyte and its extra reactivity in a charged state.'"}
+{"270422"|"ECO"|"taxation"|"CBDT shares record tax collect 14L Cr, wrt 9.45L Cr last year, 45% growth; The direct tax-to-GDP ratio is around 12%; direct tax surpassed first time the indiret tax, its 52% now"}
+{"270422"|"ECO"|"Inclusive-growth"|"Delhi Chief Minister Arvind Kejriwal and his Punjab counterpart Bhagwant Mann Tuesday signed a knowledge sharing agreement (KSA) so the states can learn and share knowledge, experience and skills with each other for the welfare of the public.The agreement will enable the two governments to send and receive officials, ministers and other personnel from the other state. It is not legally enforceable."}
+{"270422"|"SJ"|"women"|"hybrid work: Deloitte study on what it means for women"}
+{"270422"|"ECO"|"rural-development"|"'Mission Antyodaya’ should not fall by the wayside"}
